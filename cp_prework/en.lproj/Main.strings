@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Last"; ObjectID = "9D7-h1-qCG"; */
+"9D7-h1-qCG.text" = "Last";
+
+/* Class = "UILabel"; text = "More pets?"; ObjectID = "BsD-TZ-3ey"; */
+"BsD-TZ-3ey.text" = "More pets?";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "HTm-ZS-fmW"; */
+"HTm-ZS-fmW.text" = "0";
+
+/* Class = "UIButton"; configuration.title = "Introduce Self"; ObjectID = "SPk-O9-76N"; */
+"SPk-O9-76N.configuration.title" = "Introduce Self";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SPk-O9-76N"; */
+"SPk-O9-76N.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "First"; ObjectID = "WqD-Zz-BGw"; */
+"WqD-Zz-BGw.text" = "First";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "bd5-8d-Dx2"; */
+"bd5-8d-Dx2.text" = "Pets";
+
+/* Class = "UISegmentedControl"; hgH-Fg-Xot.segmentTitles[0] = "First"; ObjectID = "hgH-Fg-Xot"; */
+"hgH-Fg-Xot.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; hgH-Fg-Xot.segmentTitles[1] = "Second"; ObjectID = "hgH-Fg-Xot"; */
+"hgH-Fg-Xot.segmentTitles[1]" = "Second";
+
+/* Class = "UISegmentedControl"; hgH-Fg-Xot.segmentTitles[2] = "Third"; ObjectID = "hgH-Fg-Xot"; */
+"hgH-Fg-Xot.segmentTitles[2]" = "Third";
+
+/* Class = "UISegmentedControl"; hgH-Fg-Xot.segmentTitles[3] = "Fourth"; ObjectID = "hgH-Fg-Xot"; */
+"hgH-Fg-Xot.segmentTitles[3]" = "Fourth";
+
+/* Class = "UILabel"; text = "School"; ObjectID = "i5G-4q-kDg"; */
+"i5G-4q-kDg.text" = "School";
