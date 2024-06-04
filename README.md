@@ -1,4 +1,4 @@
-## CodePath School App
+## UTSA School App
 
 ### App Description
 
